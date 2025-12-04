@@ -27,11 +27,11 @@
         </mxCell>
         <mxCell id="g6kgqYZM7fbrdYqRamOB-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="g6kgqYZM7fbrdYqRamOB-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="291.95238095238096" y="190.09523809523807" as="targetPoint" />
+            <mxPoint x="219" y="190" as="targetPoint" />
             <Array as="points">
               <mxPoint x="363" y="197" />
               <mxPoint x="242" y="197" />
-              <mxPoint x="242" y="190" />
+              <mxPoint x="219" y="196" />
             </Array>
           </mxGeometry>
         </mxCell>
