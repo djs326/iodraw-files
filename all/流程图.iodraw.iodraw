@@ -606,8 +606,10 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="g6kgqYZM7fbrdYqRamOB-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.491;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g6kgqYZM7fbrdYqRamOB-3" target="g6kgqYZM7fbrdYqRamOB-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g6kgqYZM7fbrdYqRamOB-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="g6kgqYZM7fbrdYqRamOB-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="247" y="213" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
