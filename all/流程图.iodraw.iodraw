@@ -577,16 +577,6 @@
         <mxCell id="g6kgqYZM7fbrdYqRamOB-97" vertex="1" parent="1">
           <mxGeometry x="219" y="195" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="连接线" id="g6kgqYZM7fbrdYqRamOB-98">
-          <mxCell style="vsdxID=17;edgeStyle=none;startArrow=none;endArrow=none;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="g6kgqYZM7fbrdYqRamOB-6" target="g6kgqYZM7fbrdYqRamOB-97">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint as="offset" />
-              <Array as="points">
-                <mxPoint x="363" y="195" />
-              </Array>
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
         <UserObject label="" tags="连接线" id="g6kgqYZM7fbrdYqRamOB-99">
           <mxCell style="vsdxID=18;edgeStyle=none;startArrow=none;endArrow=none;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g6kgqYZM7fbrdYqRamOB-10" target="g6kgqYZM7fbrdYqRamOB-8">
             <mxGeometry relative="1" as="geometry">
@@ -606,7 +596,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="g6kgqYZM7fbrdYqRamOB-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="g6kgqYZM7fbrdYqRamOB-3">
+        <mxCell id="g6kgqYZM7fbrdYqRamOB-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g6kgqYZM7fbrdYqRamOB-3" target="g6kgqYZM7fbrdYqRamOB-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="247" y="213" as="targetPoint" />
           </mxGeometry>
